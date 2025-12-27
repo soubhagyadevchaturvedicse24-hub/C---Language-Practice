@@ -10,7 +10,7 @@ int main()
     if(n1>n2)
     {printf("%d is greater No.",n1);}
     else
-      {printf("%d is greater No.\n",n2);}
+      {printf("%d is greater No.\n80",n2);}
     
     return 0;
     
